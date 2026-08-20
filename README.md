@@ -4,7 +4,7 @@ A responsive weather application that displays real-time weather information for
 
 ## 🚀 Live Demo
 
-https://weather-app-two-tau-70.vercel.app
+[View live Weather App](https://weather-app-two-tau-70.vercel.app)
 
 ## ✨ Features
 
